@@ -1,7 +1,7 @@
 # Google Translator In Python Tkinter GUI
 To use this GUI application you need internet connection. 
 
-You can translate any language very easily and read this text
+You can translate any language very easily and read this text  
 
 # Application Windows installer 
 You can download this aplication's windows installer by clicking this link  👇👇
