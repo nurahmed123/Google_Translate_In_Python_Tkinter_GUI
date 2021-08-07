@@ -8,6 +8,10 @@ You can download this aplication's windows installer by clicking this link  👇
 
 Application link : https://drive.google.com/file/d/1XEdnJHkPOYCO5MDoYTumE0dTC1HIJ7hx/view?usp=sharing
 
+ 
+ <img width="600" alt="Google Translator" src="https://user-images.githubusercontent.com/84973115/128602301-ffc91e36-7f3c-4705-ac07-2abe518c341c.png">
+
+
 # More information
 If you have any types of problem related programming, problem solving, projects so contact with us.
 
